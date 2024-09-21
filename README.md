@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on My current senior project
 - 📫 How to reach me @ javier.reyes196@yahoo.com or preferably @ Javier.reyes.732@my.csun.edu 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Its never too late to start!!
 
 <!---
